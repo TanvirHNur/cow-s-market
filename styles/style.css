@@ -109,3 +109,9 @@ body{
 .catagory-card-1:hover{
     background-color: paleturquoise;
 }
+@media only screen and (max-width: 688px) {
+    .carousel{
+        font-size: 12px !important;
+        background-color: none;
+    }
+}
